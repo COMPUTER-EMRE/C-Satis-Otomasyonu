@@ -15,7 +15,7 @@ namespace Cep_Telefonu_Satış_otomasyonu
         public ekleme()
         {
             InitializeComponent();
-            like
+            likegit
         }
     }
 }
